@@ -45,6 +45,9 @@ Für Formelsammlungen siehe auch [Formelsammlungen](#formelsammlungen)
 Für Formelsammlungen siehe auch [Formelsammlungen](#formelsammlungen)
 
 - [Christian Spannagel](https://www.youtube.com/user/pharithmetik) - Der "gothik" Professor erklärt in seinen Videos ausführlich wie die Mathematik funktioniert.
+- [Mathe für Informatiker - Band 1](https://www.amazon.de/dp/3642379710/ref=cm_sw_em_r_mt_dp_U_2QH6DbD7CRXFW) - Hilfreiches Buch mit allen wichtigen Themen zu Mathe 1 mit Beispielen und Aufgaben
+- [Mathe für informatiker -Band 2](https://www.amazon.de/dp/3642542735/ref=cm_sw_em_r_mt_dp_U_-SH6DbKTMHNZB) - Hilfreiches Buch mit allen wichtigen Themen zu Mathe 2 mit Beispielen und Aufgaben
+
 
 **[`^        back to top        ^`](#)**
 
