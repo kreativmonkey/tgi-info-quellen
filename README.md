@@ -12,7 +12,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 - [Elektrotechnik](#elektrotechnik)
 - [Leistungselektronik](#leistungselektronik)
 - [Modellierung und Simulation](#modellierung-und-simulation)
-
+- [Datenbanken](#datenbanken)
 
 **[`^        back to top        ^`](#)**
 
@@ -56,6 +56,13 @@ See [Contributing](.github/CONTRIBUTING.md).
 
 ## Physik
 
+
+
+**[`^        back to top        ^`](#)**
+
+## Datenbanken
+
+- [https://sqlbolt.com](https://sqlbolt.com) - Interaktives SQL Tutorial.
 
 
 **[`^        back to top        ^`](#)**
