@@ -63,6 +63,7 @@ See [Contributing](.github/CONTRIBUTING.md).
 ## Datenbanken
 
 - [https://sqlbolt.com](https://sqlbolt.com) - Interaktives SQL Tutorial.
+- [http://www.sql-tutorial.net/](http://www.sql-tutorial.net/SQL-tutorial.asp) - Online Tutorial zu SQL
 
 
 **[`^        back to top        ^`](#)**
